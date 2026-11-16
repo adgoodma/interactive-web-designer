@@ -8,6 +8,7 @@ This repository contains instructions and reference templates, not a standalone 
 
 | File | Purpose |
 |---|---|
+| [Examples.html](Examples.html) | Searchable guide to capabilities, trigger phrases, and example prompts |
 | [SKILL.md](SKILL.md) | Skill metadata, triggers, design workflow, and guardrails |
 | [references/transitions.md](references/transitions.md) | Transition patterns, tooling, and reduced-motion guidance |
 | [references/react-bits.md](references/react-bits.md) | React Bits component catalogue and integration guidance |
@@ -17,6 +18,8 @@ This repository contains instructions and reference templates, not a standalone 
 
 Keep `SKILL.md` and the complete `references` folder together. The original internal skill-quality report is intentionally not distributed.
 
+To use the visual examples guide, download or clone the repository and open `Examples.html` in a browser. GitHub's file viewer displays HTML source rather than running the page; the repository does not automatically publish a website.
+
 ## Download
 
 Once this repository has been created and its files committed, use **Code > Download ZIP**, then extract the archive. Alternatively:
@@ -25,7 +28,7 @@ Once this repository has been created and its files committed, use **Code > Down
 git clone https://github.com/adgoodma/interactive-web-designer.git
 ```
 
-While the repository is private, downloads and clones require an account with repository access. A private repository is not a public skill listing, and creating it does not deploy a website.
+The repository is public, so anyone can download or clone it. Creating a repository does not deploy a website.
 
 ## Install
 
