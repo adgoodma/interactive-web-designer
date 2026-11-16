@@ -1,0 +1,13 @@
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local credentials and generated output
+.env
+.env.*
+!.env.example
+output/
+node_modules/
+
+# Internal evaluation artifacts
+skill-quality-report.json
