@@ -1,5 +1,7 @@
 # Interactive Web Designer
 
+[**Open the interactive examples guide**](https://adgoodma.github.io/interactive-web-designer/Examples.html)
+
 An AI agent skill for designing immersive, accessible interactive websites: scroll storytelling, WebGL and 3D heroes, kinetic typography, transitions, micro-interactions, Liquid Glass interfaces, glass navigation, and Power BI-style HTML reports.
 
 This repository contains instructions and reference templates, not a standalone application or a hosted website. It does not create actual Power BI `.pbix` reports or provide live Power BI data access.
@@ -18,7 +20,7 @@ This repository contains instructions and reference templates, not a standalone 
 
 Keep `SKILL.md` and the complete `references` folder together. The original internal skill-quality report is intentionally not distributed.
 
-To use the visual examples guide, download or clone the repository and open `Examples.html` in a browser. GitHub's file viewer displays HTML source rather than running the page; the repository does not automatically publish a website.
+Open the [interactive examples guide](https://adgoodma.github.io/interactive-web-designer/Examples.html) on GitHub Pages, or download or clone the repository and open `Examples.html` in a browser. GitHub's file viewer displays the HTML source rather than running the page.
 
 ## Download
 
@@ -28,7 +30,7 @@ Once this repository has been created and its files committed, use **Code > Down
 git clone https://github.com/adgoodma/interactive-web-designer.git
 ```
 
-The repository is public, so anyone can download or clone it. Creating a repository does not deploy a website.
+The repository and its GitHub Pages site are public, so anyone can view, download or clone them.
 
 ## Install
 
